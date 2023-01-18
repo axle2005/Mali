@@ -1,0 +1,36 @@
+Line 1 - Remove # (This comments out the line, so it isn't read. This is used for adding comments to code, Add " "
+Line 2 - Remove #
+Line 3 - Remove #
+Line 4 - Remove #
+Line 5 - Change name
+Line 6 
+Line 7 - Should be \n
+Line 8 - print needs to be lower case
+Line 9 - print needs to be lower case
+Line 10 - print is spelled wrong
+Line 11 - Replace [ ] with ( )
+Line 12 - Replace {} with (" ")
+Line 13 - Remove ,end="???"
+Line 14 - Missing a ( after print. 
+Line 15 - print is spelled wrong, entire line needs to have ' ' instead of quotation marks, so that the quotations around Compile Messages shows in the print.
+Line 16 - print is spelled wrong, add " "
+Line 17 - Add a ' at the beginning and a "' at the end
+Line 18 - Missing a ( and replace quoations with ' '
+Line 19 - Missing a )
+Line 20 - Replace quotations with ' '
+Line 21 - Add " "
+Line 22 - print spelled wrong
+Line 23 - Combine with 24
+Line 24 - Combine with 23
+Line 25 - print spelled wrong
+Line 26
+Line 27 - Add ' at begining and replace quotation at end with '
+Line 28 - Replace [ ] with (" ")
+Line 29 - Replace { } with ( )
+Line 30
+Line 31 - Missing (" ")
+Line 32 - Add " "
+Line 33
+Line 34
+Line 35 - Remove ,end=""
+Line 36
