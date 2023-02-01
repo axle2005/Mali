@@ -1,0 +1,44 @@
+from turtle import *
+from time import sleep
+setup(1300,700)
+
+width(50)
+
+penup()
+forward(-600)
+right(180)
+
+# M
+pendown()
+right(90)
+forward(200)
+right(135)
+forward(125)
+left(90)
+forward(125)
+right(135)
+forward(200)
+penup()
+
+#Spacing
+left(90)
+forward(100)
+
+pendown()
+left(90)
+forward(200)
+right(90)
+
+#Top round of 'B'
+forward(50)
+circle(-50,180)
+forward(50)
+right(180)
+#Second round of 'B'
+forward(50)
+circle(-50,180)
+forward(50)
+penup()
+
+sleep(10)
+reset()
